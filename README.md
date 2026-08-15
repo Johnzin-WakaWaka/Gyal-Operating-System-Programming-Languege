@@ -6,6 +6,7 @@ O Gyal é um projeto de uma Linguagem de Programação de baixo nivel onde o obj
 ### Estrutura do Projeto
 
 ```
+ / (pasta raiz)
  |---- Config.conf (Arquivo de configuração)
  |---- gyalc.py (Converte o Gyal pra Assembly)
  |---- build.sh (Compillador / Makefile)
