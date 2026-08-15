@@ -3,6 +3,9 @@
 Bem vindos (as) ao repositório original do Gyal.
 O Gyal é um projeto de uma Linguagem de Programação de baixo nivel onde o objetivo é criar sistemas operacionais misturando a sintaxe do Python, Assembly, Rust e Bash e tambem tem um sistema operacional chamado Gyal OS
 
+### Como eu fiz?
+Basicamnete eu projetei a linguagem, criei a sintaxe, os elementos e tudo e eu usei a [Vorbrix](https://www.vorbrix.app) para criar o compillador (Que EM BREVE vai ser atualizado)
+
 ## Estrutura do Projeto
 
 ```
