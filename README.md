@@ -18,7 +18,7 @@ O Gyal é um projeto de uma Linguagem de Programação de baixo nivel onde o obj
  |---- isodir (aonde o .img provisório)
 ```
 
-##O que vai ter na versão final da linguagem (0.0.0.1)
+###O que vai ter na Versão FINAL da Linguagem (0.0.0.1)
 ###Variaveis -----------
 Como se declara uma variavel
 ```
