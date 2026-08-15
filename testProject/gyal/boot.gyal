@@ -1,0 +1,9 @@
+print "--- Login (Se errar o PC desliga) ---"
+print "Digite a senha:"
+input senha
+
+if senha == "1234":
+    print "Acesso Liberado! Bem-vindo Omochain!"
+else:
+    print "Senha Incorreta. Sistema travado."
+    set init 0
